@@ -1,4 +1,4 @@
-运行方式
-$make
-$./all
-$make clean
+运行方式  
+$make  
+$./all  
+$make clean  
